@@ -9,3 +9,4 @@ with open("rosalind_dna.txt") as f:
 
 print(a.count("A"), a.count("C"), a.count("G"), a.count("T"))
 
+
