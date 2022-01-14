@@ -14,7 +14,7 @@
 
 <img src="https://user-images.githubusercontent.com/71424677/149250377-8d61bfaf-0fd7-4e29-b73b-3575c442a156.png" height = 300 width="600"/>
 
-로잘린드 첫번째 문제의 예시입니다.
+로잘린드 첫번째 문제의 스크린샷입니다.
 
 ## 3 Rosalind_solution_ex
 
@@ -29,7 +29,7 @@ with open("rosalind_dna.txt") as f:
 print(a.count("A"), a.count("C"), a.count("G"), a.count("T"))
 ```
 
-
+로잘린드 첫번째 문제 풀이의 예시입니다.
 
 ## 4 Rosalind_help
 
